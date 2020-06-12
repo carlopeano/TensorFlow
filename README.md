@@ -1,4 +1,5 @@
 # What's new in TensorFlow 2.0
+(Part of the course of "Tools for Data Science" - Week 2 - Lab)
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
